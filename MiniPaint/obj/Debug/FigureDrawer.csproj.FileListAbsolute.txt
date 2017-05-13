@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\obj\Debug\FigureDrawer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\obj\Debug\FigureDrawer.Form1.resources
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\obj\Debug\FigureDrawer.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\obj\Debug\MiniPaint.exe
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\obj\Debug\MiniPaint.pdb
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\bin\Debug\MiniPaint.exe.config
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\bin\Debug\MiniPaint.exe
+C:\Users\HP\Desktop\ооп\FigureDrawer\MiniPaint\bin\Debug\MiniPaint.pdb

@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\bin\Debug\MiniPaint.exe.config
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\bin\Debug\MiniPaint.exe
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\bin\Debug\MiniPaint.pdb
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\obj\Debug\MiniPaint.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\obj\Debug\MiniPaint.Form1.resources
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\obj\Debug\MiniPaint.exe
+C:\Users\HP\Desktop\ооп\MiniPaint-master\MiniPaint\obj\Debug\MiniPaint.pdb
