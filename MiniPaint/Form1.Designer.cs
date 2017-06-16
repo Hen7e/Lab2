@@ -57,7 +57,7 @@
             this.button1.TabIndex = 6;
             this.button1.Text = "Поменять инструмент";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button6_Click);
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // radioButton1
             // 
@@ -129,7 +129,7 @@
             this.Controls.Add(this.panel);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Рисование";
             this.ResumeLayout(false);
             this.PerformLayout();
 
